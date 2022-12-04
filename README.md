@@ -19,16 +19,9 @@
 <p align="left">
 <a href="https://codepen.io/mahmoudokily" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mahmoudokily" height="30" width="40" /></a>
 <a href="https://dev.to/mahmoudokily" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mahmoudokily" height="30" width="40" /></a>
-<a href="https://twitter.com/mahmoudokily" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mahmoudokily" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mahmoudokily" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmoudokily" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/mahmoudokily" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mahmoudokily" height="30" width="40" /></a>
 <a href="https://codesandbox.com/mahmoudokily" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="mahmoudokily" height="30" width="40" /></a>
-<a href="https://kaggle.com/mahmoudokily" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mahmoudokily" height="30" width="40" /></a>
-<a href="https://fb.com/mahmoudokily93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahmoudokily93" height="30" width="40" /></a>
-<a href="https://instagram.com/midoimam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="midoimam" height="30" width="40" /></a>
-<a href="https://www.behance.net/mahmoudokily" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="mahmoudokily" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/mahmoudokily" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mahmoudokily" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mahmoudokily" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mahmoudokily" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
